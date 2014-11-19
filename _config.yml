@@ -1,14 +1,26 @@
-name: Voulipo's blog
-description: Blogging about stuffs
-meta_description: "Voulipo's Site, Blogging about stuffs"
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-markdown: redcarpet
-highlighter: pygments
-logo: false
-paginate: 15
-baseurl: /
-domain_name: 'http://voulipo.me'
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-# Details for the RSS feed generator
-url:            'blog url'
-author:         'Voulipo Liu'
+# Setup
+title:            Don't Panic
+tagline:          ''
+description:      It's a marathon, not a sprint. So keep calm and carry on.
+url:              http://voulipo.me
+baseurl:          /
+
+author:
+  name:           'voulipo'
+  url:            http://voulipo.me/
+
+paginate:         15
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/voulipo/voulipo.github.io
