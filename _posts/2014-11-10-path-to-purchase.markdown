@@ -111,4 +111,4 @@ categories: Project
 
 
 
-[image1]: {{ site.baseurl }}assets/process.jpeg "Test"
+[image1]: {{ site.baseurl }}assets/process.jpeg "Process"
