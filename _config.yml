@@ -17,7 +17,7 @@ author:
   name:           'voulipo'
   url:            http://voulipo.me/
 
-paginate:         15
+paginate:         5
 
 # Custom vars
 version:          1.0.0
